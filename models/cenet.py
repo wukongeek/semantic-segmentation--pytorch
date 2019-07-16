@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 27 21:03:19 2019
 
-@author: chenzj
-"""
 
 import torch
 import torch.nn as nn
